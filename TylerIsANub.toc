@@ -1,0 +1,6 @@
+## Interface: 30100
+## Title: Tyler Is A Nub
+## Notes: Reminds Rogues and Shamans to reapply weapon buffs (if needed) at ready check
+## Author: Jason L Perry
+
+TylerIsANub.lua
