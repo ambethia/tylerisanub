@@ -4,7 +4,7 @@ f:RegisterEvent("PLAYER_LOGIN");
 
 function f:PLAYER_LOGIN(...)
   local class = select(2, UnitClass("player"));
-  if class == "ROGUE" or class == "SHAMAN" or class == "WARLOCK" then f:RegisterEvent("READY_CHECK"); end
+  if class == "ROGUE" or class == "SHAMAN" then f:RegisterEvent("READY_CHECK"); end
   f:UnregisterEvent("PLAYER_LOGIN"); self.PLAYER_LOGIN = nil;
 end
 
