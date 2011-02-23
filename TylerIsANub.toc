@@ -1,4 +1,4 @@
-## Interface: 30300
+## Interface: 40000
 ## Title: Tyler Is A Nub
 ## Author: Jason L Perry
 ## Notes: Reminds Rogues and Shamans, and Warlocks to reapply weapon buffs (if needed) at ready check
