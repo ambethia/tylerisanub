@@ -1,7 +1,7 @@
-## Interface: 40000
+## Interface: 50300
 ## Title: Tyler Is A Nub
 ## Author: Jason L Perry
 ## Version: @project-version@
-## Notes: Reminds Rogues and Shamans, and Warlocks to reapply weapon buffs (if needed) at ready check
+## Notes: Reminds Rogues and Shamans to apply weapon buffs (if needed) at ready check.
 
 TylerIsANub.lua
